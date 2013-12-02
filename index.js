@@ -1,5 +1,5 @@
-var function callBatphone() {
+function callBatphone() {
 	console.log('calling batman');
 }
-exports.callBatPhone = callBatphone;
+exports.callBatphone = callBatphone;
 
