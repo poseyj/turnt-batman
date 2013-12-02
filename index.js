@@ -1,5 +1,5 @@
 function callBatphone() {
-	console.log('calling batman v0.0.4');
+	console.log('calling batman v0.1.0');
 }
 exports.callBatphone = callBatphone;
 
