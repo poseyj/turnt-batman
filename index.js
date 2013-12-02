@@ -1,3 +1,5 @@
-console.log('here');
+module.exports = function batphone() {
+	console.log('here');
+};
 
 
