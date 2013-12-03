@@ -1,5 +1,6 @@
 function callBatphone() {
-	console.log('calling batman v0.1.0');
+	var pjson = require('./package.json');
+	console.log('calling batman ' + pjson.version);
 }
 exports.callBatphone = callBatphone;
 
